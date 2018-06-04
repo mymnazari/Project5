@@ -1,0 +1,12 @@
+# These are files created by OSX that contain things like the icons your directory
+.DS_Store
+
+#Dont track compiled python files
+*.pyc
+
+#dont track the checkpoint directories
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+*.csv
+
